@@ -1,13 +1,5 @@
 package directededge;
 
-/**
- *
- * @param <S> 
- * @author pdokos
- * 
- * This is the edge-object type that the graphs in the module 'Graphs' are built 
- * upon.
- */
 public class DirectedEdge<S> {
 
     private S source;
